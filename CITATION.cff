@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+title: "ICU Cohort Definition and Reproducible ML Pipeline (INFLUD/SRAG)"
+message: "If you use this code, please cite it as below."
+type: software
+
+authors:
+  - family-names: "Graça"
+    given-names: "Lia da"
+    affiliation: "Universidade Federal de São Paulo (UNIFESP)"
+
+year: 2025
+
+url: "https://github.com/Lia-droid/icu-rep"
+
+keywords:
+  - ICU
+  - COVID-19
+  - SRAG
+  - INFLUD
+  - Machine Learning
+  - Clinical Prediction
+  - Public Health
+  - Reproducible Research
+
+license: MIT

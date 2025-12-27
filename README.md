@@ -3,7 +3,7 @@
 This repository is organized to ensure full transparency and reproducibility
 of the ICU cohort construction and analysis pipeline.
 
-### 📂 Data
+###  Data
 The original INFLUD/SRAG datasets are publicly available via OpenDataSUS and
 are **not redistributed** in this repository due to size and licensing constraints.
 
@@ -15,7 +15,7 @@ following the procedures described in the documentation.
 
 ---
 
-### 📓 Notebooks
+###  Notebooks
 The final analysis and reproducible workflow used for the manuscript submission
 are provided as Jupyter notebooks.
 
@@ -24,7 +24,7 @@ are provided as Jupyter notebooks.
 
 ---
 
-### 📘 Documentation
+###  Documentation
 Detailed methodological documentation, integration manuals, and supporting
 materials are available in the documentation directory.
 
@@ -32,13 +32,13 @@ materials are available in the documentation directory.
 
 ---
 
-### 📊 Figures
+###  Figures
 Key figures and flowcharts describing the ICU cohort construction and study
 workflow are available here:
 
 ➡️ [figures/](figures/)
 
-## 🤝 Contributing
+##  Contributing
 
 Contributions are welcome. If you would like to report issues, suggest
 improvements, or contribute code, please see

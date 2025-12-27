@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18064989.svg)](https://doi.org/10.5281/zenodo.18064989)
+
 ## Repository Structure and Access
 
 This repository is organized to ensure full transparency and reproducibility

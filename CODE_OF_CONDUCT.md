@@ -11,13 +11,15 @@ appearance, race, religion, or sexual identity and orientation.
 ## Our Standards
 
 Examples of behavior that contributes to a positive environment include:
+
 - Using clear, respectful, polite, and professional language
 - Being respectful of differing viewpoints and experiences
 - Gracefully accepting constructive criticism
 - Focusing on what is best for the community
 
 Examples of unacceptable behavior include:
-- Trolling, insulting or derogatory comments
+
+- Trolling, insulting, or derogatory comments
 - Personal or political attacks
 - Harassment in any form
 - Publishing others’ private information without explicit permission

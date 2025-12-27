@@ -37,3 +37,9 @@ Key figures and flowcharts describing the ICU cohort construction and study
 workflow are available here:
 
 ➡️ [figures/](figures/)
+
+## 🤝 Contributing
+
+Contributions are welcome. If you would like to report issues, suggest
+improvements, or contribute code, please see
+[CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
